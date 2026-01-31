@@ -1,0 +1,6 @@
+header {display: flex; flex-direction: row; align-items: center; justify-content: space-between; margin-bottom: 1rem;}
+header.lightmode {border-bottom: 1px solid var(--color-lightmode);}
+header.darkmode {border-bottom: 1px solid var(--color-darkmode);}
+
+body.lightmode {background: var(--bg-lightmode); color: var(--color-lightmode);}
+body.darkmode {background: var(--bg-darkmode); color: var(--color-darkmode);}

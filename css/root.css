@@ -1,0 +1,7 @@
+:root {
+    --bg-darkmode: black;
+    --color-darkmode: white;
+
+    --bg-lightmode: white;
+    --color-lightmode: black;
+}
