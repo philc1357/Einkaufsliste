@@ -5,3 +5,5 @@
     --bg-lightmode: white;
     --color-lightmode: black;
 }
+
+.input {padding: 0.2rem; border-radius: 0.5rem;}

@@ -21,8 +21,8 @@
             <article>
                 <form action="add_article.php" method="POST">
                     <div>
-                        <input type="text" name="article">
-                        <input type="submit" value="Hinzufügen">
+                        <input type="text" name="article" class="input">
+                        <input type="submit" value="Hinzufügen" class="btn btn-success">
                     </div>
                 </form>
             </article>
@@ -36,7 +36,7 @@
             </article>
             <article>
                 <form action="delete_list.php" method="POST">
-                    <button type="submit" name="delete" value="1">Einkaufsliste löschen</button>
+                    <button type="submit" name="delete" value="1" class="btn btn-error">Einkaufsliste löschen</button>
                 </form>
 
             </article>
